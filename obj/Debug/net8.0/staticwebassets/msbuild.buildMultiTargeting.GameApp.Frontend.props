@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GameApp.Frontend.props" />
+</Project>

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Bami\\source\\repos\\Blazor\\GameApp\\GameApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameApp.Frontend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GameApp.Frontend.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Bami\\source\\repos\\Blazor\\GameApp\\GameApp.Frontend\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameApp.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GameApp.Frontend.props",
+      "PackagePath": "build\\GameApp.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GameApp.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\GameApp.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GameApp.Frontend.props",
+      "PackagePath": "buildTransitive\\GameApp.Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

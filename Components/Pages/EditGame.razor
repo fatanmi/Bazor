@@ -1,0 +1,17 @@
+﻿@page "/editgame"
+<PageTitle>EditGame</PageTitle>
+<h3>EditGame</h3>
+<EditForm Model="@gameDetails" class="mb-3">
+    <label for="name" class="form-label">Name:</label>
+    <InputText id="name" @bind-value="@gameDetails.Name" type="text" class="form-control" placeholder="Enter game name" />
+    <div id="nameHelp">We'll never share your details</div>
+</EditForm>
+
+@code {
+    private GameDetails gameDetails { get; set; } = new()
+        {
+            Id = 3,
+            Name = string.Empty,
+            ReleaseDate = DateOnly.FromDateTime(DateTime.UtcNow)
+        };
+}

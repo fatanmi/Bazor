@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "0wsAMLtoLme/FwUmDhG5cwJ4UC5Et5grtSYb7AAgD9g=",
+  "Source": "GameApp.Frontend",
+  "BasePath": "_content/GameApp.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameApp.Frontend\\wwwroot",
+      "Source": "GameApp.Frontend",
+      "ContentRoot": "C:\\Users\\Bami\\source\\repos\\Blazor\\GameApp\\GameApp.Frontend\\wwwroot\\",
+      "BasePath": "_content/GameApp.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Bami\\source\\repos\\Blazor\\GameApp\\GameApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameApp.Frontend.styles.css",
+      "SourceId": "GameApp.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Bami\\source\\repos\\Blazor\\GameApp\\GameApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/GameApp.Frontend",
+      "RelativePath": "GameApp.Frontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Bami\\source\\repos\\Blazor\\GameApp\\GameApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameApp.Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Bami\\source\\repos\\Blazor\\GameApp\\GameApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameApp.Frontend.bundle.scp.css",
+      "SourceId": "GameApp.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Bami\\source\\repos\\Blazor\\GameApp\\GameApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/GameApp.Frontend",
+      "RelativePath": "GameApp.Frontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Bami\\source\\repos\\Blazor\\GameApp\\GameApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameApp.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Bami\\source\\repos\\Blazor\\GameApp\\GameApp.Frontend\\wwwroot\\app.css",
+      "SourceId": "GameApp.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bami\\source\\repos\\Blazor\\GameApp\\GameApp.Frontend\\wwwroot\\",
+      "BasePath": "_content/GameApp.Frontend",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}
